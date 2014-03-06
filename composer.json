@@ -1,7 +1,7 @@
 {
-    "name": "claylo/selenium-server-standalone",
+    "name": "bipsync/selenium-server-standalone",
     "type": "library",
-    "description": "Composer distribution of Selenium Server Standalone, the browser automation framework.",
+    "description": "Composer distribution of Selenium Server Standalone, the browser automation framework. Forked from claylo as the package no longer appears to be maintained.",
     "license": "Apache-2.0",
     "keywords": ["selenium", "testing"],
     "authors": [
